@@ -4,6 +4,41 @@
       "id": "words1",
       "url": "words1.json",
       "name": "Words1: Body parts learning"
+    },
+    {
+      "id": "words1-trainer",
+      "url": "words1-trainer.json",
+      "name": "Words1: Body parts trainer"
+    },
+    {
+      "id": "words1-audio",
+      "url": "words1-audio.json",
+      "name": "Words1: Body parts audio"
+    },
+    {
+      "id": "words2",
+      "url": "words2.json",
+      "name": "Words2: illness learning"
+    },
+    {
+      "id": "words2-trainer",
+      "url": "words2-trainer.json",
+      "name": "Words2: illness trainer"
+    },
+    {
+      "id": "words2-audio",
+      "url": "words2-audio.json",
+      "name": "Words2: illness audio"
+    },
+    {
+      "id": "unit2",
+      "url": "unit2.json",
+      "name": "Unit2: illness"
+    },
+    {
+      "id": "unit2-audio",
+      "url": "unit2-audio.json",
+      "name": "Unit2: illness audio"
     }
   ]
 }

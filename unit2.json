@@ -1,0 +1,198 @@
+﻿{
+  "name": "Unit2: illness",
+  "addWords": "headache/ stomachache/ toothache/ earache/ hurt /cold/ temperature/ cough/ sore throat/ runny nose/ flu/disease/sickness/medicine/sneezing",
+  "questions": [
+    {
+      "ru": "У меня болит голова",
+      "en": "I've got a headache",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/i-ve_got_a_headache.mp3",
+      "transcript": "[ aɪv gɑt ə ˈhɛˌdeɪk ]"
+    },
+    {
+      "ru": "Вчера у нее болел живот",
+      "en": "She had a stomachache yesterday",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/she_had_a_stomachache_yesterday.mp3",
+      "transcript": "[ ʃi həd ə stʌməkeɪk ˈjɛstərˌdeɪ ]"
+    },
+    {
+      "ru": "У тебя болят зубы?",
+      "en": "Have you got toothache?",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/have_you_got_toothache_.mp3",
+      "transcript": "[ həv jʊ gɑt ˈtuːθeɪk? ]"
+    },
+    {
+      "ru": "У меня ужасно болело ухо",
+      "en": "I had a filthy earache",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/i_had_a_filthy_earache.mp3",
+      "transcript": "[ aɪ həd ə ˈfɪlθi ˈɪəreɪk ]"
+    },
+    {
+      "ru": "У тебя где-нибудь болит?",
+      "en": "Are you hurt anywhere?",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/are_you_hurt_anywhere_.mp3",
+      "transcript": "[ ɑr jʊ hɜrt ˈɛniˌwɛr? ]"
+    },
+    {
+      "ru": "Ты можешь простудиться.",
+      "en": "You might catch a cold.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/you_might_catch_a_cold_.mp3",
+      "transcript": "[ jʊ maɪt kæʧ ə koʊld. ]"
+    },
+    {
+      "ru": "Через час у нее снова поднялась температура.",
+      "en": "An hour later her temperature was up again.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/an_hour_later_her_temperature_was_up_again_.mp3",
+      "transcript": "[ ən ˈaʊər ˈleɪtər hər ˈtɛmprəʧər wəz ʌp əˈgɛn. ]"
+    },
+    {
+      "ru": "Я собирался вызвать врача.",
+      "en": "I was going to have to call a doctor.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/i_was_going_to_have_to_call_a_doctor_.mp3",
+      "transcript": "[ aɪ wəz ˈgoʊɪŋ tə həv tə kɔl ə ˈdɑktər. ]"
+    },
+    {
+      "ru": "У вас есть лекарство от кашля?",
+      "en": "Do you have cough medicine?",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/do_you_have_cough_medicine_.mp3",
+      "transcript": "[ dʊ jʊ həv kɑf ˈmɛdəsən? ]"
+    },
+    {
+      "ru": "У меня также очень болит горло.",
+      "en": "I also have a very sore throat.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/i_also_have_a_very_sore_throat_.mp3",
+      "transcript": "[ aɪ ˈɔlsoʊ həv ə ˈvɛri sɔr θroʊt. ]"
+    },
+    {
+      "ru": "У тебя насморк.",
+      "en": "You got a runny nose.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/you_got_a_runny_nose_.mp3",
+      "transcript": "[ jʊ gɑt ə ˈrʌni noʊz. ]"
+    },
+    {
+      "ru": "Врач сказал мне, что у меня грипп.",
+      "en": "The doctor told me I had the flu.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/the_doctor_told_me_i_had_the_flu_.mp3",
+      "transcript": "[ ðə ˈdɑktər toʊld mi aɪ həd ðə flu. ]"
+    },
+    {
+      "ru": "Это может быть биполярное заболевание.",
+      "en": "It could be bipolar disease.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/it_could_be_bipolar_disease_.mp3",
+      "transcript": "[ ɪt kəd bi baɪˈpoʊlər dɪˈziz. ]"
+    },
+    {
+      "ru": "Утренняя тошнота?",
+      "en": "Morning sickness?",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/morning_sickness_.mp3",
+      "transcript": "[ ˈmɔrnɪŋ ˈsɪknəs? ]"
+    },
+    {
+      "ru": "Он снова начал чихать.",
+      "en": "He began sneezing again.",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit2/he_began_sneezing_again_.mp3",
+      "transcript": "[ hi bɪˈgæn ˈsnizɪŋ əˈgɛn. ]"
+    }
+  ],
+  "colors": [
+    {
+      "color": "limeGreen",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "forestGreen",
+      "words": ["have", "has", "were", "was"]
+    },
+    {
+      "color": "darkCyan",
+      "words": ["not"]
+    },
+    {
+      "color": "chocolate",
+      "words": ["got"]
+    },
+
+    {
+      "color": "orangeRed",
+      "words": ["you", "I", "She", "He", "They", "We", "It", "Those", "This"]
+    },
+    {
+      "color": "dodgerBlue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "darkOrchid",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "gold",
+      "words": ["a", "an", "the"]
+    },
+    {
+      "color": "darkslategray",
+      "words": ["there"]
+    },
+
+    {
+      "color": "darkkhaki",
+      "words": ["some", "any"]
+    },
+
+    {
+      "color": "mediumblue",
+      "words": ["on", "in", "at", "of", "into"]
+    },
+    {
+      "color": "orangeRed-limeGreen",
+      "words": ["I'm"]
+    },
+    {
+      "color": "orangeRed-forestGreen",
+      "words": ["I've", "He's", "She's", "They've", "you've"]
+    },
+    {
+      "color": "forestGreen-darkCyan",
+      "words": ["hasn't", "haven't"]
+    },
+    {
+      "color": "limeGreen-darkCyan",
+      "words": ["aren't", "isn't"]
+    },
+    {
+      "color": "coral",
+      "words": [
+        "headache",
+        "stomachache",
+        "toothache",
+        "earache",
+        "hurt",
+        "cold",
+        "temperature",
+        "cough",
+        "sore",
+        "throat",
+        "runny",
+        "nose",
+        "flu",
+        "disease",
+        "sickness",
+        "medicine",
+        "sneezing"
+      ]
+    }
+  ]
+}

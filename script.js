@@ -331,14 +331,6 @@ class App {
     this.appHTML.elemTitle.innerHTML = this.unitData.name;
     this.ques = this.questions[this.indexQues];
 
-    if (this.ques.ru) {
-      this.appHTML.elemSentence.innerHTML = this.ques.ru;
-    } else {
-      this.appHTML.playAudioEn();
-    }
-
-    this.appHTML.increaseAudioElement();
-
     if (this.ques.audioEnUrl) {
       this.appHTML.elemAudioEn.src =
         window.location.origin + location.pathname + this.ques.audioEnUrl;
@@ -356,6 +348,15 @@ class App {
       this.appHTML.elemAudioWrapper.dataset.timeSound =
         this.ques.en.length * ratioSpeed;
     }
+
+    if (this.ques.ru) {
+      this.appHTML.elemSentence.innerHTML = this.ques.ru;
+    } else {
+      this.appHTML.elemDescription.innerHTML = "Выбери то, что услышал";
+      this.appHTML.playAudioEn();
+    }
+
+    this.appHTML.increaseAudioElement();
 
     this.appHTML.elemSentence.append(this.appHTML.elemAudioWrapper);
 
@@ -376,7 +377,9 @@ class App {
     let words = this.ques.en.split(" ");
 
     if (this.ques.addWord) {
-      words = words.concat(this.ques.addWord.split(" "));
+      words = words.concat(
+        this.ques.addWord.split("/").map((w) => w.replace("/", "").trim())
+      );
     } else {
       words = words.concat(
         this.getRandomWords(this.unitData.addWords, 4, this.ques.en)
@@ -544,7 +547,7 @@ class App {
       this.ques.en
         .trim()
         .toLowerCase()
-        .replace(/[\s.,%?]/g, "")
+        .replace(/[\s.,%?+]/g, "")
     ) {
       setTimeout(() => {
         this.appHTML.playAudioEn();
@@ -557,7 +560,7 @@ class App {
         Number(this.appHTML.elemKnewQues.innerHTML) + 1;
 
       this.appHTML.elemBoard.innerHTML = "";
-      this.appHTML.showRightText(this.ques.en);
+      this.appHTML.showRightText(this.ques.en.replace(/[+]/g, " "));
       if (this.ques.transcript) {
         this.appHTML.showTranscipt(this.ques.transcript);
       }
@@ -580,7 +583,7 @@ class App {
       this.appHTML.decreaseAudioElement();
       this.appHTML.elemBoard.innerHTML = "";
       this.appHTML.showDelText(curWord);
-      this.appHTML.showRightText(this.ques.en);
+      this.appHTML.showRightText(this.ques.en.replace(/[+]/g, " "));
       if (this.ques.transcript) {
         this.appHTML.showTranscipt(this.ques.transcript);
       }
@@ -634,7 +637,8 @@ class App {
   }
 
   getRandomWords(wordsStr, countWords, exludedWord) {
-    let words = wordsStr.split(" ");
+    let words = wordsStr.split("/").map((w) => w.replace("/", "").trim());
+
     words = words.filter((word) => word !== exludedWord);
     words.sort(() => Math.random() - 0.5);
 

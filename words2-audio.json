@@ -1,0 +1,97 @@
+﻿{
+  "name": "Words2: illness audio",
+  "addWords": "headache/ stomachache/ toothache/ earache/ hurt /cold/ temperature/ cough/ sore throat/ runny nose/ flu/disease/sickness/medicine/sneezing",
+  "questions": [
+    {
+      "en": "headache",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/headache.mp3",
+      "transcript": "[ ˈhɛˌdeɪk ]"
+    },
+    {
+      "en": "stomachache",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/stomachache.mp3",
+      "transcript": "[ stʌməkeɪk ]"
+    },
+    {
+      "en": "toothache",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/toothache.mp3",
+      "transcript": "[ ˈtuːθeɪk ]"
+    },
+    {
+      "en": "earache",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/earache.mp3",
+      "transcript": "[ ˈɪəreɪk ]"
+    },
+    {
+      "en": "hurt",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/hurt.mp3",
+      "transcript": "[ hɜrt ]"
+    },
+    {
+      "en": "cold",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/cold.mp3",
+      "transcript": "[ koʊld ]"
+    },
+    {
+      "en": "temperature",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/temperature.mp3",
+      "transcript": "[ ˈtɛmprəʧər ]"
+    },
+    {
+      "en": "cough",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/cough.mp3",
+      "transcript": "[ kɑf ]"
+    },
+    {
+      "en": "sore+throat",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/sore_throat.mp3",
+      "transcript": "[ sɔr θroʊt ]"
+    },
+    {
+      "en": "runny+nose",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/runny_nose.mp3",
+      "transcript": "[ ˈrʌni noʊz ]"
+    },
+    {
+      "en": "flu",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/flu.mp3",
+      "transcript": "[ flu ]"
+    },
+    {
+      "en": "disease",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/disease.mp3",
+      "transcript": "[ dɪˈziz ]"
+    },
+    {
+      "en": "sickness",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/sickness.mp3",
+      "transcript": "[ ˈsɪknəs ]"
+    },
+    {
+      "en": "medicine",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/medicine.mp3",
+      "transcript": "[ ˈmɛdəsən ]"
+    },
+    {
+      "en": "sneezing",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/sneezing.mp3",
+      "transcript": "[ ˈsnizɪŋ ]"
+    }
+  ],
+  "colors": []
+}

@@ -1,171 +1,171 @@
 ﻿{
-  "name": "Words1: Body parts learning",
-  "addWords": "hair/ nose/ mouth/ lips/ tooth/ teeth/ tongue/ chin/ forehead/ cheek/ shoulder/ back/ finger/ stomach/ feet/ temple/ nostril/ eyelashes/ eyebrows/ ears/ earlobe/ jaw/ skin/ wrinkle",
+  "name": "Words1: Body parts trainer",
+  "addWords": "a/ b/ c/ d/ e/ f/ g/ h/ i/ k/ l/ m/ n/ o/ p/ q/ r/ s/ t/ v/ x/ y/ z/ j/ u/ w",
   "questions": [
     {
       "ru": "волосы",
-      "en": "hair",
+      "en": "h a i r",
       "addWord": "",
       "audioEnUrl": "./audios/words1/hair.mp3",
       "transcript": "[ hɛr ]"
     },
     {
       "ru": "нос",
-      "en": "nose",
+      "en": "n o s e",
       "addWord": "",
       "audioEnUrl": "./audios/words1/nose.mp3",
       "transcript": "[ noʊz ]"
     },
     {
       "ru": "рот",
-      "en": "mouth",
+      "en": "m o u t h",
       "addWord": "",
       "audioEnUrl": "./audios/words1/mouth.mp3",
       "transcript": "[ maʊθ ]"
     },
     {
       "ru": "губы",
-      "en": "lips",
+      "en": "l i p s",
       "addWord": "",
       "audioEnUrl": "./audios/words1/lips.mp3",
       "transcript": "[ lɪps ]"
     },
     {
       "ru": "зуб",
-      "en": "tooth",
+      "en": "t o o t h",
       "addWord": "",
       "audioEnUrl": "./audios/words1/tooth.mp3",
       "transcript": "[ tuθ ]"
     },
     {
       "ru": "зубы",
-      "en": "teeth",
+      "en": "t e e t h",
       "addWord": "",
       "audioEnUrl": "./audios/words1/teeth.mp3",
       "transcript": "[ tiθ ]"
     },
     {
       "ru": "язык",
-      "en": "tongue",
+      "en": "t o n g u e",
       "addWord": "",
       "audioEnUrl": "./audios/words1/tongue.mp3",
       "transcript": "[ tʌŋ ]"
     },
     {
       "ru": "щека",
-      "en": "cheek",
+      "en": "c h e e k",
       "addWord": "",
       "audioEnUrl": "./audios/words1/cheek.mp3",
       "transcript": "[ ʧik ]"
     },
     {
       "ru": "лоб",
-      "en": "forehead",
+      "en": "f o r e h e a d",
       "addWord": "",
       "audioEnUrl": "./audios/words1/forehead.mp3",
       "transcript": "[ ˈfɔrhɛd ]"
     },
     {
       "ru": "подбородок",
-      "en": "chin",
+      "en": "c h i n",
       "addWord": "",
       "audioEnUrl": "./audios/words1/chin.mp3",
       "transcript": "[ ʧɪn ]"
     },
     {
       "ru": "плечо",
-      "en": "shoulder",
+      "en": "s h o u l d e r",
       "addWord": "",
       "audioEnUrl": "./audios/words1/shoulder.mp3",
       "transcript": "[ ˈʃoʊldər ]"
     },
     {
       "ru": "спина",
-      "en": "back",
+      "en": "b a c k",
       "addWord": "",
       "audioEnUrl": "./audios/words1/back.mp3",
       "transcript": "[ bæk ]"
     },
     {
       "ru": "палец",
-      "en": "finger",
+      "en": "f i n g e r",
       "addWord": "",
       "audioEnUrl": "./audios/words1/finger.mp3",
       "transcript": "[ ˈfɪŋgər ]"
     },
     {
       "ru": "живот",
-      "en": "stomach",
+      "en": "s t o m a c h",
       "addWord": "",
       "audioEnUrl": "./audios/words1/stomach.mp3",
       "transcript": "[ ˈstʌmək ]"
     },
     {
       "ru": "ступни",
-      "en": "feet",
+      "en": "f e e t",
       "addWord": "",
       "audioEnUrl": "./audios/words1/feet.mp3",
       "transcript": "[ fit ]"
     },
     {
       "ru": "висок",
-      "en": "temple",
+      "en": "t e m p l e",
       "addWord": "",
       "audioEnUrl": "./audios/words1/temple.mp3",
       "transcript": "[ ˈtɛmpəl ]"
     },
     {
       "ru": "ноздря",
-      "en": "nostril",
+      "en": "n o s t r i l",
       "addWord": "",
       "audioEnUrl": "./audios/words1/nostril.mp3",
       "transcript": "[ ˈnɑstrɪl ]"
     },
     {
       "ru": "ресницы",
-      "en": "eyelashes",
+      "en": "e y e l a s h e s",
       "addWord": "",
       "audioEnUrl": "./audios/words1/eyelashes.mp3",
       "transcript": "[ ˈaɪˌlæʃɪz ]"
     },
     {
       "ru": "брови",
-      "en": "eyebrows",
+      "en": "e y e b r o w s",
       "addWord": "",
       "audioEnUrl": "./audios/words1/eyebrows.mp3",
       "transcript": "[ ˈaɪˌbraʊz ]"
     },
     {
       "ru": "уши",
-      "en": "ears",
+      "en": "e a r s",
       "addWord": "",
       "audioEnUrl": "./audios/words1/ears.mp3",
       "transcript": "[ ɪrz ]"
     },
     {
       "ru": "мочка уха",
-      "en": "earlobe",
+      "en": "e a r l o b e",
       "addWord": "",
       "audioEnUrl": "./audios/words1/earlobe.mp3",
       "transcript": "[ earlobe ]"
     },
     {
       "ru": "челюсть",
-      "en": "jaw",
+      "en": "j a w",
       "addWord": "",
       "audioEnUrl": "./audios/words1/jaw.mp3",
       "transcript": "[ ʤɔ ]"
     },
     {
       "ru": "кожа",
-      "en": "skin",
+      "en": "s k i n",
       "addWord": "",
       "audioEnUrl": "./audios/words1/skin.mp3",
       "transcript": "[ skɪn ]"
     },
     {
       "ru": "морщина",
-      "en": "wrinkle",
+      "en": "w r i n k l e",
       "addWord": "",
       "audioEnUrl": "./audios/words1/wrinkle.mp3",
       "transcript": "[ ˈrɪŋkəl"

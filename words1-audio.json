@@ -1,149 +1,128 @@
 ﻿{
-  "name": "Words1: Body parts learning",
+  "name": "Words1: Body parts audio",
   "addWords": "hair/ nose/ mouth/ lips/ tooth/ teeth/ tongue/ chin/ forehead/ cheek/ shoulder/ back/ finger/ stomach/ feet/ temple/ nostril/ eyelashes/ eyebrows/ ears/ earlobe/ jaw/ skin/ wrinkle",
   "questions": [
     {
-      "ru": "волосы",
       "en": "hair",
       "addWord": "",
       "audioEnUrl": "./audios/words1/hair.mp3",
       "transcript": "[ hɛr ]"
     },
     {
-      "ru": "нос",
       "en": "nose",
       "addWord": "",
       "audioEnUrl": "./audios/words1/nose.mp3",
       "transcript": "[ noʊz ]"
     },
     {
-      "ru": "рот",
       "en": "mouth",
       "addWord": "",
       "audioEnUrl": "./audios/words1/mouth.mp3",
       "transcript": "[ maʊθ ]"
     },
     {
-      "ru": "губы",
       "en": "lips",
       "addWord": "",
       "audioEnUrl": "./audios/words1/lips.mp3",
       "transcript": "[ lɪps ]"
     },
     {
-      "ru": "зуб",
       "en": "tooth",
       "addWord": "",
       "audioEnUrl": "./audios/words1/tooth.mp3",
       "transcript": "[ tuθ ]"
     },
     {
-      "ru": "зубы",
       "en": "teeth",
       "addWord": "",
       "audioEnUrl": "./audios/words1/teeth.mp3",
       "transcript": "[ tiθ ]"
     },
     {
-      "ru": "язык",
       "en": "tongue",
       "addWord": "",
       "audioEnUrl": "./audios/words1/tongue.mp3",
       "transcript": "[ tʌŋ ]"
     },
     {
-      "ru": "щека",
       "en": "cheek",
       "addWord": "",
       "audioEnUrl": "./audios/words1/cheek.mp3",
       "transcript": "[ ʧik ]"
     },
     {
-      "ru": "лоб",
       "en": "forehead",
       "addWord": "",
       "audioEnUrl": "./audios/words1/forehead.mp3",
       "transcript": "[ ˈfɔrhɛd ]"
     },
     {
-      "ru": "подбородок",
       "en": "chin",
       "addWord": "",
       "audioEnUrl": "./audios/words1/chin.mp3",
       "transcript": "[ ʧɪn ]"
     },
     {
-      "ru": "плечо",
       "en": "shoulder",
       "addWord": "",
       "audioEnUrl": "./audios/words1/shoulder.mp3",
       "transcript": "[ ˈʃoʊldər ]"
     },
     {
-      "ru": "спина",
       "en": "back",
       "addWord": "",
       "audioEnUrl": "./audios/words1/back.mp3",
       "transcript": "[ bæk ]"
     },
     {
-      "ru": "палец",
       "en": "finger",
       "addWord": "",
       "audioEnUrl": "./audios/words1/finger.mp3",
       "transcript": "[ ˈfɪŋgər ]"
     },
     {
-      "ru": "живот",
       "en": "stomach",
       "addWord": "",
       "audioEnUrl": "./audios/words1/stomach.mp3",
       "transcript": "[ ˈstʌmək ]"
     },
     {
-      "ru": "ступни",
       "en": "feet",
       "addWord": "",
       "audioEnUrl": "./audios/words1/feet.mp3",
       "transcript": "[ fit ]"
     },
     {
-      "ru": "висок",
       "en": "temple",
       "addWord": "",
       "audioEnUrl": "./audios/words1/temple.mp3",
       "transcript": "[ ˈtɛmpəl ]"
     },
     {
-      "ru": "ноздря",
       "en": "nostril",
       "addWord": "",
       "audioEnUrl": "./audios/words1/nostril.mp3",
       "transcript": "[ ˈnɑstrɪl ]"
     },
     {
-      "ru": "ресницы",
       "en": "eyelashes",
       "addWord": "",
       "audioEnUrl": "./audios/words1/eyelashes.mp3",
       "transcript": "[ ˈaɪˌlæʃɪz ]"
     },
     {
-      "ru": "брови",
       "en": "eyebrows",
       "addWord": "",
       "audioEnUrl": "./audios/words1/eyebrows.mp3",
       "transcript": "[ ˈaɪˌbraʊz ]"
     },
     {
-      "ru": "уши",
       "en": "ears",
       "addWord": "",
       "audioEnUrl": "./audios/words1/ears.mp3",
       "transcript": "[ ɪrz ]"
     },
     {
-      "ru": "мочка уха",
       "en": "earlobe",
       "addWord": "",
       "audioEnUrl": "./audios/words1/earlobe.mp3",
@@ -157,14 +136,12 @@
       "transcript": "[ ʤɔ ]"
     },
     {
-      "ru": "кожа",
       "en": "skin",
       "addWord": "",
       "audioEnUrl": "./audios/words1/skin.mp3",
       "transcript": "[ skɪn ]"
     },
     {
-      "ru": "морщина",
       "en": "wrinkle",
       "addWord": "",
       "audioEnUrl": "./audios/words1/wrinkle.mp3",

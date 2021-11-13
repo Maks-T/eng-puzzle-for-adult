@@ -172,7 +172,7 @@ html {
   background: url("./assets/icons/sound-green.png") center no-repeat;
   background-size: contain;
 
-  transition: 0.8s;
+  transition: 1s;
 }
 
 .audio__wrapper:hover {
@@ -220,7 +220,7 @@ html {
   right: 50%;
   top: 120px;
   transform: scale(4);
-  transition: 0.8s;
+  transition: 1s;
 }
 
 .large.play {

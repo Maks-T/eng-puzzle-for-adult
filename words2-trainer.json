@@ -1,0 +1,112 @@
+﻿{
+  "name": "Words2: illness trainer",
+  "addWords": "a/ b/ c/ d/ e/ f/ g/ h/ i/ k/ l/ m/ n/ o/ p/ q/ r/ s/ t/ v/ x/ y/ z/ j/ u/ w",
+  "questions": [
+    {
+      "ru": "головная боль",
+      "en": "h e a d a c h e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/headache.mp3",
+      "transcript": "[ ˈhɛˌdeɪk ]"
+    },
+    {
+      "ru": "боль в животе",
+      "en": "s t o m a c h a c h e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/stomachache.mp3",
+      "transcript": "[ stʌməkeɪk ]"
+    },
+    {
+      "ru": "зубная боль",
+      "en": "t o o t h a c h e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/toothache.mp3",
+      "transcript": "[ ˈtuːθeɪk ]"
+    },
+    {
+      "ru": "боль в ушах",
+      "en": "e a r a c h e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/earache.mp3",
+      "transcript": "[ ˈɪəreɪk ]"
+    },
+    {
+      "ru": "боль",
+      "en": "h u r t",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/hurt.mp3",
+      "transcript": "[ hɜrt ]"
+    },
+    {
+      "ru": "простуда",
+      "en": "c o l d",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/cold.mp3",
+      "transcript": "[ koʊld ]"
+    },
+    {
+      "ru": "температура",
+      "en": "t e m p e r a t u r e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/temperature.mp3",
+      "transcript": "[ ˈtɛmprəʧər ]"
+    },
+    {
+      "ru": "кашель",
+      "en": "c o u g h",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/cough.mp3",
+      "transcript": "[ kɑf ]"
+    },
+    {
+      "ru": "боль в горле",
+      "en": "s o r e  t h r o a t",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/sore_throat.mp3",
+      "transcript": "[ sɔr θroʊt ]"
+    },
+    {
+      "ru": "насморк",
+      "en": "r u n n y  n o s e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/runny_nose.mp3",
+      "transcript": "[ ˈrʌni noʊz ]"
+    },
+    {
+      "ru": "грипп",
+      "en": "f l u",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/flu.mp3",
+      "transcript": "[ flu ]"
+    },
+    {
+      "ru": "болезнь (заболевание)",
+      "en": "d i s e a s e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/disease.mp3",
+      "transcript": "[ dɪˈziz ]"
+    },
+    {
+      "ru": "болезнь (недомогание)",
+      "en": "s i c k n e s s",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/sickness.mp3",
+      "transcript": "[ ˈsɪknəs ]"
+    },
+    {
+      "ru": "лекарство",
+      "en": "m e d i c i n e",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/medicine.mp3",
+      "transcript": "[ ˈmɛdəsən ]"
+    },
+    {
+      "ru": "чихание",
+      "en": "s n e e z i n g",
+      "addWord": "",
+      "audioEnUrl": "./audios/words2/sneezing.mp3",
+      "transcript": "[ ˈsnizɪŋ ]"
+    }
+  ],
+  "colors": []
+}
