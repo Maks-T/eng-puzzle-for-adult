@@ -40,5 +40,11 @@
       "url": "unit2-audio.json",
       "name": "Unit2: illness audio"
     }
+     ,
+    {
+      "id": "unit-cards-4",
+      "url": "unit-cards-4.json",
+      "name": "Unit Cards 4"
+    }
   ]
 }

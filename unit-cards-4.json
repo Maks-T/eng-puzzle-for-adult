@@ -1,0 +1,132 @@
+﻿{
+  "name": "Words2: illness learning",
+  "addWords": "headache/ stomachache/ toothache/ earache/ hurt /cold/ temperature/ cough/ sore throat/ runny nose/ flu/disease/sickness/medicine/sneezing",
+  "questions": [
+{
+      "ru":  "Моему другу нравится эта идея","en": "My friend likes this idea","addWord":"","audioEnUrl ":"./audios/unit-cards-4/"","transcript ":"[maɪ frɛnd laɪks ðɪs aɪˈdiə]"
+    }
+
+  ],
+  "colors": [
+    {
+      "color": "limeGreen",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "forestGreen",
+      "words": ["have", "has", "were", "was"]
+    },
+    {
+      "color": "darkCyan",
+      "words": ["not"]
+    },
+    {
+      "color": "chocolate",
+      "words": ["got"]
+    },
+
+    {
+      "color": "orangeRed",
+      "words": ["you", "I", "She", "He", "They", "We", "It", "Those", "This"]
+    },
+    {
+      "color": "dodgerBlue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "darkOrchid",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "gold",
+      "words": ["a", "an", "the"]
+    },
+    {
+      "color": "darkslategray",
+      "words": ["there"]
+    },
+    {
+      "color": "coral",
+      "words": [
+        "pen",
+        "new",
+        "phone",
+        "house",
+        "sister",
+        "brother",
+        "eyes.",
+        "nose",
+        "long",
+        "hair",
+        "dog",
+        "bike",
+        "fish",
+        "pets",
+        "bags",
+        "bags",
+        "bags",
+        "bags",
+        "clowns",
+        "glass",
+        "father",
+        "book",
+        "sofa",
+        "dream",
+        "sleep",
+        "cat",
+        "bus",
+        "pets",
+        "pens",
+        "books",
+        "lamp",
+        "cats",
+        "pencil",
+        "milk",
+        "pencils"
+      ]
+    },
+
+    {
+      "color": "rosybrown",
+      "words": [
+        "table",
+        "sofa",
+        "desk",
+        "cupboard",
+        "fridge",
+        "mirror",
+        "bath",
+        "chair",
+        "bed",
+        "kitchen",
+        "wardrobe",
+        "armchair"
+      ]
+    },
+    {
+      "color": "darkkhaki",
+      "words": ["some", "any"]
+    },
+
+    {
+      "color": "mediumblue",
+      "words": ["on", "in", "at", "of", "into"]
+    },
+    {
+      "color": "orangeRed-limeGreen",
+      "words": ["I'm"]
+    },
+    {
+      "color": "orangeRed-forestGreen",
+      "words": ["I've", "He's", "She's", "They've", "you've"]
+    },
+    {
+      "color": "forestGreen-darkCyan",
+      "words": ["hasn't", "haven't"]
+    },
+    {
+      "color": "limeGreen-darkCyan",
+      "words": ["aren't", "isn't"]
+    }
+  ]
+}
