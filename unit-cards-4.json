@@ -1,6 +1,6 @@
 ﻿{
   "name": "unit-cards-4",
-  "addWords": "warm/ vety/ so/ doesn't/ do/ has/ have/ hot/ useful/ windy/ today/ tired/ want/ aren't/ description/ answer/ detailed/ know/ likes/ important",
+  "addWords": "warm/ very/ so/ doesn't/ do/ has/ have/ hot/ useful/ windy/ today/ tired/ want/ aren't/ description/ answer/ detailed/ know/ likes/ important",
   "questions": [
     {
       "ru": "Моему другу нравится эта идея",
@@ -429,7 +429,7 @@
     },
     {
       "color": "limeGreen-darkCyan",
-      "words": ["aren't", "isn't"]
+      "words": ["aren't", "isn't", "do", "doesn't", "did", "didn't"]
     }
   ]
 }
