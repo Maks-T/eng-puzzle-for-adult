@@ -1,11 +1,315 @@
 ﻿{
   "name": "Words2: illness learning",
-  "addWords": "headache/ stomachache/ toothache/ earache/ hurt /cold/ temperature/ cough/ sore throat/ runny nose/ flu/disease/sickness/medicine/sneezing",
+  "addWords": "warm/ vety/ so/ doesn't/ do/ has/ have/ hot/ useful/ windy/ today/ tired/ want/ aren't/ description/ answer/ detailed/ know/ likes/ important",
   "questions": [
-{
-      "ru":  "Моему другу нравится эта идея","en": "My friend likes this idea","addWord":"","audioEnUrl ":"./audios/unit-cards-4/"","transcript ":"[maɪ frɛnd laɪks ðɪs aɪˈdiə]"
+    {
+      "ru": "Моему другу нравится эта идея",
+      "en": "My friend likes this idea",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/1.mp3",
+      "transcript": "[maɪ frɛnd laɪks ðɪs aɪˈdiə]"
+    },
+    {
+      "ru": "Моему другу не нравится эта идея",
+      "en": "My friend doesn't like this idea",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/2.mp3",
+      "transcript": "[maɪ frɛnd ˈdʌzənt laɪk ðɪs aɪˈdiə]"
+    },
+    {
+      "ru": "Мой друг не знает это ",
+      "en": "My friend doesn't know it",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/3.mp3",
+      "transcript": "[maɪ frɛnd ˈdʌzənt noʊ ɪt]"
+    },
+    {
+      "ru": "Он не готов к этому",
+      "en": "He isn't ready for it",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/4.mp3",
+      "transcript": "[hi ˈɪzənt ˈrɛdi fɔr ɪt]"
+    },
+    {
+      "ru": "Это слово не новое для меня",
+      "en": "This word isn't new for me",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/5.mp3",
+      "transcript": "[ðɪs wɜrd ˈɪzənt nu fɔr mi]"
+    },
+    {
+      "ru": "Эта проблема не такая большая",
+      "en": "This problem isn't so big",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/6.mp3",
+      "transcript": "[ðɪs ˈprɑbləm ˈɪzəntsoʊ bɪg]"
+    },
+    {
+      "ru": "Эта проблема не кажется такой важной, но это действительно необходимо",
+      "en": "This problem doesn't seem so important but it's really necessary",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/7.mp3",
+      "transcript": "[ðɪs ˈprɑbləm ˈdʌzənt sim soʊ ɪmˈpɔrtənt bʌt ɪts ˈrɪli ˈnɛsəˌsɛri]"
+    },
+    {
+      "ru": "Эта информация не нова для меня",
+      "en": "This information insn't new for me",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/8.mp3",
+      "transcript": "[ðɪs ˌɪnfərˈmeɪʃən insn't nu fɔr mi]"
+    },
+    {
+      "ru": "Эта вещь не кажется дейтвительно важной",
+      "en": "This thing doesn't seem really important",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/9.mp3",
+      "transcript": "[ðɪs θɪŋ ˈdʌzənt sim ˈrɪli ɪmˈpɔrtənt]"
+    },
+    {
+      "ru": "Эта вещь не кажется такой важной, но это действительно необходимо",
+      "en": "This thing doesn't seem so important  but it's really necessary",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/10.mp3",
+      "transcript": "[ðɪs θɪŋ ˈdʌzənt sim soʊ ɪmˈpɔrtənt bʌt ɪts ˈrɪli ˈnɛsəˌsɛri]"
+    },
+    {
+      "ru": "Эта информаци не кажется такой полезной",
+      "en": "This information doesn't seem so useful",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/11.mp3",
+      "transcript": "[ðɪs ˌɪnfərˈmeɪʃən ˈdʌzənt sim soʊ ˈjusfəl]"
+    },
+    {
+      "ru": "Эта деталь не важна",
+      "en": "This detail isn't important",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/12.mp3",
+      "transcript": "[ðɪs dɪˈteɪl ˈɪzənt ɪmˈpɔrtənt]"
+    },
+    {
+      "ru": "Эта деталь не кажется важной",
+      "en": "This detail doesn't seem important",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/13.mp3",
+      "transcript": "[ðɪs dɪˈteɪl ˈdʌzənt sim ɪmˈpɔrtənt]"
+    },
+    {
+      "ru": "Это очень подробный ответ",
+      "en": "It's a very detailed answer",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/14.mp3",
+      "transcript": "[ɪts ə ˈvɛri dɪˈteɪld ˈænsər]"
+    },
+    {
+      "ru": "Этот ответ очень подробный",
+      "en": "This answer is very detailed",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/15.mp3",
+      "transcript": "[ðɪs ˈænsər ɪz ˈvɛri dɪˈteɪld]"
+    },
+    {
+      "ru": "Этот ответ не такой подробный",
+      "en": "This answer isn't so detailed",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/16.mp3",
+      "transcript": "[ðɪs ˈænsər ˈɪzənt soʊ dɪˈteɪld]"
+    },
+    {
+      "ru": "Тот ответ не выглядит действительно информативно",
+      "en": "That answer doen't look really informative",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/17.mp3",
+      "transcript": "[ðæt ˈænsər doen't lʊk ˈrɪli ɪnˈfɔrmətɪv]"
+    },
+    {
+      "ru": "Это описание не такое информативное",
+      "en": "This description isn't so informative",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/18.mp3",
+      "transcript": "[ðɪs dɪˈskrɪpʃən ˈɪzənt soʊ ɪnˈfɔrmətɪv]"
+    },
+    {
+      "ru": "Это описание не выглядит таким информативным",
+      "en": "This description doesn't look so informative",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/19.mp3",
+      "transcript": "[ðɪs dɪˈskrɪpʃən ˈdʌzənt lʊk soʊ ɪnˈfɔrmətɪv]"
+    },
+    {
+      "ru": "Моих родителей нет дома",
+      "en": "My parents aren't at home",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/20.mp3",
+      "transcript": "[maɪ ˈpɛrənts ˈɑrənt æt hoʊm]"
+    },
+    {
+      "ru": "Его родители не знают это",
+      "en": "His [z] parents doesn't know it",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/21.mp3",
+      "transcript": "[hɪz [zi] ˈpɛrənts ˈdʌzənt noʊ ɪt]"
+    },
+    {
+      "ru": "Его мама не знает это",
+      "en": "His [z] mother doesn't know it",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/22.mp3",
+      "transcript": "[hɪz [zi] ˈmʌðər ˈdʌzənt noʊ ɪt]"
+    },
+    {
+      "ru": "Это не удивляет меня",
+      "en": "It doesn't surprise [z] me",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/23.mp3",
+      "transcript": "[ɪt ˈdʌzənt sərˈpraɪz [zi] mi]"
+    },
+    {
+      "ru": "Эта вещь не удивляет меня",
+      "en": "This thing doesn't surprise [z] me",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/24.mp3",
+      "transcript": "[ðɪs θɪŋ ˈdʌzənt sərˈpraɪz [zi] mi]"
+    },
+    {
+      "ru": "Это дейтсвительно меня мотивирует",
+      "en": "It really motivates me",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/25.mp3",
+      "transcript": "[ɪt ˈrɪli ˈmoʊtəˌveɪts mi]"
+    },
+    {
+      "ru": "Эта вещь мотивирует так сильно",
+      "en": "This thing motivates me so much",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/26.mp3",
+      "transcript": "[ðɪs θɪŋ ˈmoʊtəˌveɪts mi soʊ mʌʧ]"
+    },
+    {
+      "ru": "Я не удивлен",
+      "en": "I'm not surprised",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/27.mp3",
+      "transcript": "[aɪm nɑt sərˈpraɪzd]"
+    },
+    {
+      "ru": "Он не выглядит уставшим",
+      "en": "He doesn't look tired",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/28.mp3",
+      "transcript": "[hi ˈdʌzənt lʊk ˈtaɪərd]"
+    },
+    {
+      "ru": "Я хочу сказать, что я не удивлен",
+      "en": "I want to say I'm not surprised",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/29.mp3",
+      "transcript": "[aɪ wɑnt tu seɪ aɪm nɑt sərˈpraɪzd]"
+    },
+    {
+      "ru": "Я хочу сказать, что я не устал",
+      "en": "I want to say I'm tired",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/30.mp3",
+      "transcript": "[aɪ wɑnt tu seɪ aɪm ˈtaɪərd]"
+    },
+    {
+      "ru": "Мальчик не выглядит уставшим",
+      "en": "The boy doesn't look tired",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/31.mp3",
+      "transcript": "[ðə bɔɪ ˈdʌzənt lʊk ˈtaɪərd]"
+    },
+    {
+      "ru": "Я думаю, это не важно",
+      "en": "I think it isn't important",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/32.mp3",
+      "transcript": "[aɪ θɪŋk ɪt ˈɪzənt ɪmˈpɔrtənt]"
+    },
+    {
+      "ru": "Тест не выглядит таким легким",
+      "en": "The test doesn't look so easy",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/33.mp3",
+      "transcript": "[ðə tɛst ˈdʌzənt lʊk soʊ ˈizi]"
+    },
+    {
+      "ru": "Тест не такой сложный",
+      "en": "The test isn't so difficult",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/34.mp3",
+      "transcript": "[ðə tɛst ˈɪzənt soʊ ˈdɪfəkəlt]"
+    },
+    {
+      "ru": "Сейчас не холодно",
+      "en": "It isn't cold now",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/35.mp3",
+      "transcript": "[ɪt ˈɪzənt koʊld naʊ]"
+    },
+    {
+      "ru": "Сейчас не тепло",
+      "en": "It isn't warm now",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/36.mp3",
+      "transcript": "[ɪt ˈɪzənt wɔrm naʊ]"
+    },
+    {
+      "ru": "Сейчас не жарко",
+      "en": "It isn't hot now",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/37.mp3",
+      "transcript": "[ɪt ˈɪzənt hɑt naʊ]"
+    },
+    {
+      "ru": "Сегодня не солнечно",
+      "en": "It isn't sunny today",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/38.mp3",
+      "transcript": "[ɪt ˈɪzənt ˈsʌni təˈdeɪ]"
+    },
+    {
+      "ru": "Сегодня не так ветренно",
+      "en": "It isn't so windy today",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/39.mp3",
+      "transcript": "[ɪt ˈɪzənt soʊ ˈwɪndi təˈdeɪ]"
+    },
+    {
+      "ru": "Сегодня не очень холодно",
+      "en": "It isn't very cold today",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/40.mp3",
+      "transcript": "[ɪt ˈɪzənt ˈvɛri koʊld təˈdeɪ]"
+    },
+    {
+      "ru": "Сегодня не очень тепло",
+      "en": "It isn't very warm today",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/41.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "Сейчас не так жарко",
+      "en": "It isn't so hot now",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/42.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "Этот урок не кажется таким легким, но он очень полезный",
+      "en": "This lesson doesn't seem so easy but it's very useful",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/43.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "",
+      "en": "",
+      "addWord": "",
+      "audioEnUrl": "./audios/unit-cards-4/44.mp3",
+      "transcript": "[]"
     }
-
   ],
   "colors": [
     {
