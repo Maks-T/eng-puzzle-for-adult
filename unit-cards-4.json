@@ -332,7 +332,7 @@
     },
     {
       "color": "darkOrchid",
-      "words": ["mum", "girls", "happy", "glad"]
+      "words": ["mum", "girls", "happy", "glad", "windy", "cold", "hot"]
     },
     {
       "color": "gold",
@@ -345,6 +345,7 @@
     {
       "color": "coral",
       "words": [
+        "important",
         "pen",
         "new",
         "phone",
@@ -386,6 +387,11 @@
     {
       "color": "rosybrown",
       "words": [
+        "likes",
+        "look",
+        "looks",
+        "seem",
+        "seems",
         "table",
         "sofa",
         "desk",
@@ -407,7 +413,7 @@
 
     {
       "color": "mediumblue",
-      "words": ["on", "in", "at", "of", "into"]
+      "words": ["on", "in", "at", "of", "into", "so", "very"]
     },
     {
       "color": "orangeRed-limeGreen",
