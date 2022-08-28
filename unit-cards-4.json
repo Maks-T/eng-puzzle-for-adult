@@ -5,91 +5,91 @@
     {
       "ru": "Моему другу нравится эта идея",
       "en": "My friend likes this idea",
-      "addWord": "",
+      "addWord": "like/a/the",
       "audioEnUrl": "./audios/unit-cards-4/1.mp3",
       "transcript": "[maɪ frɛnd laɪks ðɪs aɪˈdiə]"
     },
     {
       "ru": "Моему другу не нравится эта идея",
       "en": "My friend doesn't like this idea",
-      "addWord": "",
+      "addWord": "don't/likes/a/the",
       "audioEnUrl": "./audios/unit-cards-4/2.mp3",
       "transcript": "[maɪ frɛnd ˈdʌzənt laɪk ðɪs aɪˈdiə]"
     },
     {
       "ru": "Мой друг не знает это ",
       "en": "My friend doesn't know it",
-      "addWord": "",
+      "addWord": "don't/knows/a/the",
       "audioEnUrl": "./audios/unit-cards-4/3.mp3",
       "transcript": "[maɪ frɛnd ˈdʌzənt noʊ ɪt]"
     },
     {
       "ru": "Он не готов к этому",
       "en": "He isn't ready for it",
-      "addWord": "",
+      "addWord": "doesn't/in/a/the",
       "audioEnUrl": "./audios/unit-cards-4/4.mp3",
       "transcript": "[hi ˈɪzənt ˈrɛdi fɔr ɪt]"
     },
     {
       "ru": "Это слово не новое для меня",
       "en": "This word isn't new for me",
-      "addWord": "",
+      "addWord": "doesn't/don't/a/the",
       "audioEnUrl": "./audios/unit-cards-4/5.mp3",
       "transcript": "[ðɪs wɜrd ˈɪzənt nu fɔr mi]"
     },
     {
       "ru": "Эта проблема не такая большая",
       "en": "This problem isn't so big",
-      "addWord": "",
+      "addWord": "doesn't/don't/a/the",
       "audioEnUrl": "./audios/unit-cards-4/6.mp3",
       "transcript": "[ðɪs ˈprɑbləm ˈɪzəntsoʊ bɪg]"
     },
     {
       "ru": "Эта проблема не кажется такой важной, но это действительно необходимо",
       "en": "This problem doesn't seem so important but it's really necessary",
-      "addWord": "",
+      "addWord": "isn't/not/a/the",
       "audioEnUrl": "./audios/unit-cards-4/7.mp3",
       "transcript": "[ðɪs ˈprɑbləm ˈdʌzənt sim soʊ ɪmˈpɔrtənt bʌt ɪts ˈrɪli ˈnɛsəˌsɛri]"
     },
     {
       "ru": "Эта информация не нова для меня",
       "en": "This information insn't new for me",
-      "addWord": "",
+      "addWord": "doesn't/don't/a/the",
       "audioEnUrl": "./audios/unit-cards-4/8.mp3",
       "transcript": "[ðɪs ˌɪnfərˈmeɪʃən insn't nu fɔr mi]"
     },
     {
       "ru": "Эта вещь не кажется действительно важной",
       "en": "This thing doesn't seem really important",
-      "addWord": "",
+      "addWord": "isn't/don't/a/the/seems",
       "audioEnUrl": "./audios/unit-cards-4/9.mp3",
       "transcript": "[ðɪs θɪŋ ˈdʌzənt sim ˈrɪli ɪmˈpɔrtənt]"
     },
     {
       "ru": "Эта вещь не кажется такой важной, но это действительно необходимо",
       "en": "This thing doesn't seem so important  but it's really necessary",
-      "addWord": "",
+      "addWord": "isn't/don't/a/the/seems",
       "audioEnUrl": "./audios/unit-cards-4/10.mp3",
       "transcript": "[ðɪs θɪŋ ˈdʌzənt sim soʊ ɪmˈpɔrtənt bʌt ɪts ˈrɪli ˈnɛsəˌsɛri]"
     },
     {
       "ru": "Эта информаци не кажется такой полезной",
       "en": "This information doesn't seem so useful",
-      "addWord": "",
+      "addWord": "isn't/don't/a/the/seems",
       "audioEnUrl": "./audios/unit-cards-4/11.mp3",
       "transcript": "[ðɪs ˌɪnfərˈmeɪʃən ˈdʌzənt sim soʊ ˈjusfəl]"
     },
     {
       "ru": "Эта деталь не важна",
       "en": "This detail isn't important",
-      "addWord": "",
+      "addWord": "doesn't/don't/a/the/seems",
       "audioEnUrl": "./audios/unit-cards-4/12.mp3",
       "transcript": "[ðɪs dɪˈteɪl ˈɪzənt ɪmˈpɔrtənt]"
     },
     {
       "ru": "Эта деталь не кажется важной",
       "en": "This detail doesn't seem important",
-      "addWord": "",
+      "addWord": "isn't/don't/a/the/seems",
       "audioEnUrl": "./audios/unit-cards-4/13.mp3",
       "transcript": "[ðɪs dɪˈteɪl ˈdʌzənt sim ɪmˈpɔrtənt]"
     },
